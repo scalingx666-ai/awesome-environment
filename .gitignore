@@ -1,0 +1,11 @@
+# 采集与构建中间产物（含采集脚本/原始 JSON，不入库）
+_build/
+__pycache__/
+*.pyc
+
+# 系统文件
+.DS_Store
+
+# 编辑器
+.vscode/
+.idea/
